@@ -16,5 +16,10 @@ namespace PR08_Mudrov_Trifonova
         {
             InitializeComponent();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
